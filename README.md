@@ -85,4 +85,8 @@ This project is a practical introduction to file management using Java. It build
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/2ff2e284-4341-4158-97ee-4c49c2756a09)
+
+
+![Image](https://github.com/user-attachments/assets/dd780c53-4c9e-40ce-84df-b4cbd4c30d26)
 
